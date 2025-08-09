@@ -14,7 +14,6 @@ It includes automated **data quality checks**, **ontology mapping**, and **gover
 ## 🛠 Tools & Technologies
 - Python (pandas, fuzzywuzzy, matplotlib, seaborn)
 - Jupyter Notebooks
-- ReportLab (for PDF documentation)
 - CSV for data exchange
 - Controlled vocabularies (DrugBank, SNOMED, etc.)
 
